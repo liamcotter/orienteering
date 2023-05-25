@@ -1,4 +1,0 @@
-test.csv
-.gitignore
-**pycache**
-__pycache__/**
